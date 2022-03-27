@@ -11,7 +11,7 @@
         <platform>all</platform>
         <news>websockets shamefully copied from https://github.com/aaugustin/websockets</news>
         <news>See https://websockets.readthedocs.io/en/stable/intro/index.html for details</news>
-        <summary>Python Websockets</summary>
-        <description>It works for me</description>
+        <summary lang="en_GB">Python Websockets</summary>
+        <description lang="en_GB">It works for me</description>
     </extension>
 </addon>
